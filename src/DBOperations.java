@@ -138,6 +138,7 @@ public class DBOperations {
 
         } catch (Exception e) {
             System.err.format("IOException: %s%n", e);
+            System.out.println("sample");
         }
 
 
